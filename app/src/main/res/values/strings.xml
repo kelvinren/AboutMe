@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="my_name">Yim Jianwei</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profile_desc">
+        Education\n
+        \n\tSJK(c) Taman Connaught, Kuala Lumpur \n
+        \n\t\n
+        \n\t\n
+        \n\t\n
+        \n\tSMK Taman Connaught, Kuala Lumpur \n
+        \n\t\n
+        \n\t\n
+        \n\t\n
+        \n\tTAR UC, Kuala Lumpur \n
+        \n\t\n
+        \n\t\n
+        \n\t\n
+
+    </string>
+</resources>
