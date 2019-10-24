@@ -15,6 +15,35 @@
         app:fontFamily="@font/roboto"
         style="@style/my_text_style" />
 
+    <EditText
+        android:id="@+id/editTextNickname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="@string/your_nickname"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/buttonDone"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/layout_padding"
+        android:fontFamily="@font/roboto"
+        android:text="@string/done" />
+
+    <TextView
+        android:id="@+id/textViewNickname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAccent"
+        android:gravity="center"
+        android:paddingBottom="@dimen/layout_padding"
+        android:visibility="gone" />
+
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="match_parent"

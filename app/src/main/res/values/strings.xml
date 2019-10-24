@@ -2,6 +2,10 @@
     <string name="app_name">AboutMe</string>
     <string name="my_name">Yim Jianwei</string>
     <string name="profile_pic">Profile Picture</string>
+
+    <string name="your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+
     <string name="profile_desc">
         Education\n
         \n\tSJK(c) Taman Connaught, Kuala Lumpur \n
